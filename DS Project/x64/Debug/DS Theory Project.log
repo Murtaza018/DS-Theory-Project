@@ -1,0 +1,4 @@
+﻿  DS Theory Project.cpp
+G:\DS Theory Project (2)\DS Theory Project\court.h(141,7): warning C4101: 'i': unreferenced local variable
+G:\DS Theory Project (2)\DS Theory Project\DS Theory Project.cpp(11,23): warning C4101: 'opt4': unreferenced local variable
+  DS Theory Project.vcxproj -> G:\DS Theory Project (2)\DS Theory Project\x64\Debug\DS Theory Project.exe
